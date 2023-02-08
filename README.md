@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eatonkatie
 - 👀 I’m interested in cats, dogs, camping and food
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning devops
+- 💞️ I’m looking to collaborate on anything drupal 
 - 📫 How to reach me: katie.eaton@digitalconvergence.ca
 
 <!---
